@@ -20,8 +20,9 @@ author_profile: true
 - International Workshop on Mathematical Issues in Information Sciences (2022)
 
 # TPC Membership
+- IEEE International Conference on Communications (2022-2024)
+- IEEE Symposium on Joint Communications and Sensing (2024)
 - IEEE Vehicular Technology Conference (2023)
-- IEEE International Conference on Communications (2022-2023)
 - IEEE Global Communications Conference (2022)
 - IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (2021-2022)
 - IEEE International Conference on Communications in China (2019-2022)
