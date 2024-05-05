@@ -19,20 +19,20 @@ redirect_from:
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include crowd intelligence, edge learning, integrated sensing-communication-computation, over-the-air computation, and wirelessly powered communication.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong, Shenzhen. His research interests include integrated sensing-communication-computation, crowd intelligence, edge learning, over-the-air computation, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
-<!-- <a href='https://scholar.google.es/citations?user=pw0f1aIAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+<!-- <a href='https://scholar.google.com/citations?hl=zh-CN&user=pw0f1aIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # Research Interests
+- Integrated sensing-communication-computation
 - Crowd intelligence
 - Edge learning
-- Integrated sensing-communication-computation
 - Over-the-air computation
 - Wirelessly powered communications
 
 # Working experience
 - *2022.12 to now*, Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen)
-  - Research Scientist/ Research Associate
+  - Research Scientist/Research Associate
 - *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
   - Presidential Distinguished Research Fellow
   
@@ -48,6 +48,10 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
   - Supervisor: Prof. Yi Gong
  
 # Honors and Awards
+- Incentive Program for Scientific and Technical Papers in the Field of Information and Communication, China Communications Society, 2024.
+- Best Paper Award of IEEE 4th International Symposium on Joint Communications & Sensing, 2024.
+- Journal of Information and Intelligence Exemplary Reviewer, 2023.
+- Winner prize of 1st Huawei Wi-Fi sensing competition (Top 5 in 290+), 2023.
 - Forbes 30 under 30 (Top 30 in China), 2022.
 - IEEE Wireless Communications Letters Exemplary Reviewer, 2022.
 - Top 50 in Great Bay Area High Value Patent Competition (Top 50 in 2000+), 2022.
@@ -71,8 +75,9 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - SRIBD Project, J00120230001, “Indoor Human Activity Recognition based on WiFi Signals”, ¥660k, Core Member, 2023-2024.
 
 # Latest Publications
+- Z. Zhou, X. Li*, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, early access, 2024.
+- X. Li, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, early access, 2024.
 - X. Li, Y. Gong*, K. Huang, and Z. Niu, “Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks”, IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023.
 - X. Li, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, vol. 22, no. 8, pp. 5383-5398, Aug. 2023.
-- Z. Zhou, X. Li*, C. You, K. Huang, and Y. Gong, “Joint Sensing and Communication-Rate Control for Energy Efficient Mobile Crowd Sensing”, IEEE Transactions on Wireless Communications, vol. 22, no. 2, pp. 1314-1327, Feb. 2023.
 
 [Full list of publications.](/publications/)
