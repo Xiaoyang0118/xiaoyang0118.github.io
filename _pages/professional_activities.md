@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 # Workshop Co-Chair
-- IEEE International Conference on Acoustics, Speech, and Signal Processing (2024)
-- International Conference on Networks, Communications and Intelligent Computing (2023)
+- IEEE Wireless Communications and Networking Conference 2024
+- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 2024
+- IEEE International Conference on Acoustics, Speech, and Signal Processing 2024
+- International Conference on Networks, Communications and Intelligent Computing 2023
   
 # Session Chair
 - IEEE International Conference on Communications (2023)
