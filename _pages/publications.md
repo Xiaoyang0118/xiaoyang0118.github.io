@@ -9,8 +9,8 @@ author_profile: true
 ---
 
 # Journal Papers
-1. Z. Zhou, **X. Li***, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, early access, 2024. (JCR Q1)
-2. **X. Li**, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, early access, 2024. (JCR Q1)
+1. Z. Zhou, **X. Li***, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, vol. 42, no. 9, pp. 2228-2242, Sept. 2024. (JCR Q1)
+2. **X. Li**, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, vol. 62, no. 9, pp. 122-127, 2024. (JCR Q1)
 3. S. Wang, Y. Gong*, **X. Li***, and Q. Li, “Beampattern Design for Integrated Sensing, Communication and Computation Over-the-Air”, IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9681-9692, March 2024. (JCR Q1)
 4. **X. Li**, Y. Gong*, K. Huang, and Z. Niu, "Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks", IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023. (JCR Q1)
 5. **X. Li**, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, vol. 22, no. 8, pp. 5383-5398, Aug. 2023. (JCR Q1)
