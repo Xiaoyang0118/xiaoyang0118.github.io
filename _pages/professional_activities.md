@@ -12,10 +12,10 @@ author_profile: true
 - International Workshop on Mathematical Issues in Information Sciences (2024)
   
 # Workshop Chair
-- IEEE Wireless Communications and Networking Conference 2024-2025
-- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 2024
-- IEEE International Conference on Acoustics, Speech, and Signal Processing 2024
-- International Conference on Networks, Communications and Intelligent Computing 2023
+- IEEE Wireless Communications and Networking Conference (2024-2025)
+- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (2024)
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (2024)
+- International Conference on Networks, Communications and Intelligent Computing (2023)
   
 # Session Chair
 - IEEE International Conference on Wireless Communications and Signal Processing (2023-2024)
