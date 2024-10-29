@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Editor
-- Journal of Information and Intelligence Editor (2024-2026)
+- Journal of Information and Intelligence (2024-2026)
 
 # Technical Program Chair
 - International Workshop on Mathematical Issues in Information Sciences (2024)
