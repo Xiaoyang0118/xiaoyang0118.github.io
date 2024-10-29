@@ -48,7 +48,6 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
   - Supervisor: Prof. Yi Gong
  
 # Honors and Awards
-- Journal of Information and Intelligence Editor, 2024.
 - Incentive Program for Scientific and Technical Papers in the Field of Information and Communication, China Communications Society, 2024.
 - Best Paper Award of IEEE 4th International Symposium on Joint Communications & Sensing, 2024.
 - Journal of Information and Intelligence Exemplary Reviewer, 2023.
