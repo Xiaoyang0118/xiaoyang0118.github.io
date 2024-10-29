@@ -19,20 +19,20 @@ redirect_from:
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong, Shenzhen. His research interests include integrated sensing-communication-computation, crowd intelligence, edge learning, over-the-air computation, and wirelessly powered communication.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently working in The Chinese University of Hong Kong (Shenzhen) as an adjunct assitant professor with the College of Science and Technology, and a Research Associate with the Shenzhen Research Institute of Big Data. His research interests include network optimization, integrated sensing-communication-computation, edge learning, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?hl=zh-CN&user=pw0f1aIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # Research Interests
+- Network optimization
 - Integrated sensing-communication-computation
-- Crowd intelligence
 - Edge learning
-- Over-the-air computation
 - Wirelessly powered communications
 
 # Working experience
-- *2022.12 to now*, Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen)
-  - Research Scientist/Research Associate
+- *2022.12 to now*, The Chinese University of Hong Kong (Shenzhen)
+  - Adjunct Assitant Professor with College of Science and Technology
+  - Research Associate with Shenzhen Research Institute of Big Data
 - *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
   - Presidential Distinguished Research Fellow
   
@@ -48,6 +48,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
   - Supervisor: Prof. Yi Gong
  
 # Honors and Awards
+- Journal of Information and Intelligence Editor, 2024.
 - Incentive Program for Scientific and Technical Papers in the Field of Information and Communication, China Communications Society, 2024.
 - Best Paper Award of IEEE 4th International Symposium on Joint Communications & Sensing, 2024.
 - Journal of Information and Intelligence Exemplary Reviewer, 2023.
