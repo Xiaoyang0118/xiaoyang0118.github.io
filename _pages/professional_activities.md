@@ -5,17 +5,23 @@ excerpt: ""
 author_profile: true
 ---
 
-# Workshop Co-Chair
-- IEEE Wireless Communications and Networking Conference 2024
+# Editor
+- Journal of Information and Intelligence Editor (2024-2026)
+
+# Technical Program Chair
+- International Workshop on Mathematical Issues in Information Sciences (2024)
+  
+# Workshop Chair
+- IEEE Wireless Communications and Networking Conference 2024-2025
 - IEEE International Symposium on Personal, Indoor and Mobile Radio Communications 2024
 - IEEE International Conference on Acoustics, Speech, and Signal Processing 2024
 - International Conference on Networks, Communications and Intelligent Computing 2023
   
 # Session Chair
+- IEEE International Conference on Wireless Communications and Signal Processing (2023-2024)
+- International Workshop on Learning and Information Theory (2023-2024)
 - IEEE International Conference on Communications (2023)
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (2023)
-- IEEE International Conference on Wireless Communications and Signal Processing (2023)
-- International Workshop on Learning and Information Theory (2023)
 - IEEE International Conference on Communications in China (2022)
 - International Workshop on Mathematical Issues in Information Sciences (2022)
 
