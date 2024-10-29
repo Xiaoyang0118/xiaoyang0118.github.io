@@ -7,6 +7,7 @@ author_profile: true
 
 # Reviewer Activities
 - IEEE Wireless Communications Letters (Exemplary Reviewer)
+- Journal of Information and Intelligence (Exemplary Reviewer)
 - IEEE Network
 - IEEE Wireless Communications
 - IEEE Vehicular Technology Magazine
