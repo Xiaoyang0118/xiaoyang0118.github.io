@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently working in The Chinese University of Hong Kong (Shenzhen) as an Adjunct Assitant Professor with College of Science and Technology, and a Research Associate with Shenzhen Research Institute of Big Data. His research interests include network optimization, integrated sensing-communication-computation, edge learning, and wirelessly powered communication.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently working in The Chinese University of Hong Kong (Shenzhen) as an Adjunct Assistant Professor with College of Science and Technology, and a Research Associate with Shenzhen Research Institute of Big Data. His research interests include network optimization, integrated sensing-communication-computation, edge learning, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?hl=zh-CN&user=pw0f1aIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -31,7 +31,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 
 # Working experience
 - *2022.12 to now*, The Chinese University of Hong Kong (Shenzhen)
-  - Adjunct Assitant Professor with College of Science and Technology
+  - Adjunct Assistant Professor with College of Science and Technology
   - Research Associate with Shenzhen Research Institute of Big Data
 - *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
   - Presidential Distinguished Research Fellow
