@@ -43,10 +43,10 @@ author_profile: true
 32. B. Zhou*, H. Gao, Z. Wei, **X. Li**, and Y. Zhuang, “Self-Interference-Alleviated Multi-Beam Steering for On-Demand Sensing and Communication Performance Tradeoff of 6G Full-Duplex ISAC”, submitted to IEEE for possible publication, 2024.
 33. Z. Han, **X. Li**, K. Huang, Y. Gong, and Q. Zhang*, “An Energy-Efficient Wireless Communication and Control Co-design for WNCS”, submitted to IEEE for possible publication, 2024.
 34. Y. Chen, Y. Feng, **X. Li**, L. Zhao, and K, Shen*, “Fast Fractional Programming for Multi-Cell Integrated Sensing and Communications”, submitted to IEEE for possible publication, 2024.
-35. H. Gao, B. Zhou*, J. Wang, X. Li, F. Liu, C. Wen, and Z. Zhou, “MIMO OFDM Waveform-Based State Estimate of Multiple Mobile Terminals for 6G ISAC”, submitted to IEEE for possible publication, 2024.
-36. Z. Zhao, F. Meng, H. Li, X. Li, G. Zhu, “Mining Limited Data Sufficiently: A BERT-inspired Approach for CSI Time Series Application in Wireless Communication and Sensing”, submitted to IEEE for possible publication, 2024.
-37. Z. Zhao, Z. Cai, T. Chen, X. Li, H. Li, G. Zhu, “KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment”, submitted to IEEE for possible publication, 2024.
-38. Z. Zhao, T. Chen, F. Meng, Z. Cai, H. Li, X. Li, G. Zhu, “LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking”, submitted to IEEE for possible publication, 2024.
+35. H. Gao, B. Zhou*, J. Wang, **X. Li**, F. Liu, C. Wen, and Z. Zhou, “MIMO OFDM Waveform-Based State Estimate of Multiple Mobile Terminals for 6G ISAC”, submitted to IEEE for possible publication, 2024.
+36. Z. Zhao, F. Meng, H. Li, **X. Li**, G. Zhu, “Mining Limited Data Sufficiently: A BERT-inspired Approach for CSI Time Series Application in Wireless Communication and Sensing”, submitted to IEEE for possible publication, 2024.
+37. Z. Zhao, Z. Cai, T. Chen, **X. Li**, H. Li, G. Zhu, “KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment”, submitted to IEEE for possible publication, 2024.
+38. Z. Zhao, T. Chen, F. Meng, Z. Cai, H. Li, **X. Li**, G. Zhu, “LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracking”, submitted to IEEE for possible publication, 2024.
     
 # Conference Papers
 1. X. Li, H. Li, **X. Li**, G. Zhu, N. Qi, and M. Xiao, “RadioGAT: A Model-Based Learning Framework for Radio Map Reconstruction via Graph Attention Networks”, in Proc. IEEE Wireless Communications and Networking Conference, Milan, Italy, 2025.
