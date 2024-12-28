@@ -48,6 +48,8 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
   - Supervisor: Prof. Yi Gong
  
 # Honors and Awards
+- Youth Talent Support Program, China Association for Science and Technology, 2024.
+- Outstanding Research Fellow in Shenzhen, 2024.
 - Incentive Program for Scientific and Technical Papers in the Field of Information and Communication, China Communications Society, 2024.
 - Best Paper Award of IEEE 4th International Symposium on Joint Communications & Sensing, 2024.
 - Journal of Information and Intelligence Exemplary Reviewer, 2023.
@@ -71,12 +73,16 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - China Postdoctoral Science Foundation, “Research on Key Technologies of Wireless Crowd Sensing for Sensor Networks”, Grant No.: 2021M691452, ¥80k, PI, 2020-2022.
 - China Academy of Information and Communication Technology (CAICT) Collaboration Project, “Research on theory and algorithm of multi-modal wireless network location estimation and tracking for 6G”, ¥540k, PI, 2022-2023.
 - Shenzhen Research Institute of Big Data (SRIBD) Project, J00220230004, “Research on Technologies of Integrated Sensing, Communication, and Computation for Intelligent Learning”, ¥100k, PI, 2023-2024.
+- Shenzhen Science and Technology Program Major Project, Z202403019, “Research on Integrated Sensing-Communication-Computation based Novel Network Applications”, ¥20000k, Sub-project PI, 2025-2027.
+- Shenzhen Basic Research Specialized Key Projects, J20240234, “Research on Key Issues of Sensing-Communication-Computing Integration for Intelligent Networked Vehicles”, ¥2000k, Sub-project PI, 2025-2027.
+- Joint Lab with China Mobile, “Research on Key Technologies for Air-ground Integrated Network Prediction and Intelligent Optimization”, ¥3170.5k, Core Member, 2024-2026.
 - NSFC, “Research on Key Technologies for Wireless Crowd Labelling”, Grant No.: 62071212, ¥550k, Core Member, 2021-2024.
 - SRIBD Project, J00120230001, “Indoor Human Activity Recognition based on WiFi Signals”, ¥660k, Core Member, 2023-2024.
 
 # Latest Publications
-- Z. Zhou, X. Li*, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, early access, 2024.
-- X. Li, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, early access, 2024.
+- D. Wen, Y. Zhou, X. Li, Y. Shi*, K. Huang, K.B. Letaief, “A Survey on Integrated Sensing, Communication, and Computation”, IEEE Communications Surveys and Tutorials, early access, 2024.
+- Z. Zhou, X. Li*, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, vol. 42, no. 9, pp. 2228-2242, Sept. 2024.
+- X. Li, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, vol. 62, no. 9, pp. 122-127, 2024.
 - X. Li, Y. Gong*, K. Huang, and Z. Niu, “Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks”, IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023.
 - X. Li, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, vol. 22, no. 8, pp. 5383-5398, Aug. 2023.
 
