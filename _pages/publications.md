@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 # Journal Papers
-1. Y. Jiang, **X. Li***, G. Zhu, H. Li, J. Deng, K. Han, C. Shen, Q. Shi, and R. Zhang, “Integrated Sensing and Communication for Low Altitude Economy: Opportunities and Challenges”, IEEE Communications Magazine, early access, 2025.
+1. Y. Jiang, **X. Li***, G. Zhu, H. Li, J. Deng, K. Han, C. Shen, Q. Shi, and R. Zhang, “Integrated Sensing and Communication for Low Altitude Economy: Opportunities and Challenges”, IEEE Communications Magazine, early access, 2025. (JCR Q1)
 2. Z. Zhou, **X. Li***, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, vol. 42, no. 9, pp. 2228-2242, Sept. 2024. (JCR Q1)
 3. **X. Li**, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, vol. 62, no. 9, pp. 122-127, 2024. (JCR Q1)
 4. S. Wang, Y. Gong*, **X. Li***, and Q. Li, “Beampattern Design for Integrated Sensing, Communication and Computation Over-the-Air”, IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9681-9692, March 2024. (JCR Q1)
