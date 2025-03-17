@@ -48,7 +48,8 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
   - Supervisor: Prof. Yi Gong
  
 # Honors and Awards
-- Youth Talent Support Program, China Association for Science and Technology, 2024.
+- Young Elite of G20 Entrepreneurs’ Alliance, 2025.
+- Young Elite of China Association for Science and Technology, 2024.
 - Outstanding Research Fellow in Shenzhen, 2024.
 - Incentive Program for Scientific and Technical Papers in the Field of Information and Communication, China Communications Society, 2024.
 - Best Paper Award of IEEE 4th International Symposium on Joint Communications & Sensing, 2024.
@@ -80,6 +81,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - SRIBD Project, J00120230001, “Indoor Human Activity Recognition based on WiFi Signals”, ¥660k, Core Member, 2023-2024.
 
 # Latest Publications
+- Y. Jiang, X. Li*, G. Zhu, H. Li, J. Deng, K. Han, C. Shen, Q. Shi, and R. Zhang, “Integrated Sensing and Communication for Low Altitude Economy: Opportunities and Challenges”, IEEE Communications Magazine, early access, 2025.
 - D. Wen, Y. Zhou, X. Li, Y. Shi*, K. Huang, K.B. Letaief, “A Survey on Integrated Sensing, Communication, and Computation”, IEEE Communications Surveys and Tutorials, early access, 2024.
 - Z. Zhou, X. Li*, G. Zhu, J. Xu, K. Huang, S. Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, IEEE Journal on Selected Areas in Communications, vol. 42, no. 9, pp. 2228-2242, Sept. 2024.
 - X. Li, Z. Han, G. Zhu*, Y. Shi, J. Xu, Y. Gong, Q. Zhang, K. Huang, and K.B. Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, IEEE Communications Magazine, vol. 62, no. 9, pp. 122-127, 2024.
