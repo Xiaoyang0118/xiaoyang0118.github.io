@@ -18,22 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span> 
 
 # About me
-Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently working in The Chinese University of Hong Kong (Shenzhen) as an Adjunct Assistant Professor with College of Science and Technology, and a Research Associate with Shenzhen Research Institute of Big Data. His research interests include network optimization, integrated sensing-communication-computation, edge learning, and wirelessly powered communication.
+Xiaoyang Li (Member, IEEE) is currently working in Southern University of Science and Technology (SUSTech) as an assistant professor. He received the B.Eng. degree from SUSTech in 2016 and the Ph.D. degree from The University of Hong Kong (HKU) in 2020.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?hl=zh-CN&user=pw0f1aIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # Research Interests
-- Network optimization
-- Integrated sensing-communication-computation
-- Edge learning
-- Wirelessly powered communications
+- Integrated Sensing, AI, and Communication (ISAAC)
+- Edge Learning
+- Network Optimization
+- Wirelessly Powered Communications
 
 # Working experience
-- *2022.12 to now*, The Chinese University of Hong Kong (Shenzhen)
+- *2025.09 to now*, Southern University of Science and Technology (SUSTech)
+  - Assistant Professor with Department of Electrical and Electronic Engineering, PhD Supervisor
+- *2022.12 to 2025.08*, The Chinese University of Hong Kong (Shenzhen)
   - Adjunct Assistant Professor with College of Science and Technology
   - Research Associate with Shenzhen Research Institute of Big Data
-- *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
+- *2020.10 to 2022.12*, SUSTech
   - Presidential Distinguished Research Fellow
   
 # Educations
@@ -49,7 +50,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
  
 # Honors and Awards
 - Young Elite of G20 Entrepreneurs’ Alliance, 2025.
-- Young Elite of China Association for Science and Technology, 2024.
+- Young Elite Scientists by China Association for Science and Technology, 2024.
 - Outstanding Research Fellow in Shenzhen, 2024.
 - Incentive Program for Scientific and Technical Papers in the Field of Information and Communication, China Communications Society, 2024.
 - Best Paper Award of IEEE 4th International Symposium on Joint Communications & Sensing, 2024.
