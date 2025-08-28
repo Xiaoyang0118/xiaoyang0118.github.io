@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span> 
 
 # About me
-Xiaoyang Li (Member, IEEE) is currently working in Southern University of Science and Technology (SUSTech) as an assistant professor. He received the B.Eng. degree from SUSTech in 2016 and the Ph.D. degree from The University of Hong Kong (HKU) in 2020.
+Xiaoyang Li (Member, IEEE) is currently working in Southern University of Science and Technology (SUSTech) as an Assistant Professor. He received the B.Eng. degree from SUSTech in 2016 and the Ph.D. degree from The University of Hong Kong (HKU) in 2020.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?hl=zh-CN&user=pw0f1aIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
