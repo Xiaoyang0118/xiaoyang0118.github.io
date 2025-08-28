@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyang Li"
   avatar           : "/images/portrait.jpg"
-  bio              : "The Chinese University of Hong Kong (Shenzhen)"
+  bio              : "Southern University of Science and Technology"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=pw0f1aIAAAAJ"
-  email            : "lixiaoyang@sribd.cn"
+  email            : "lixy@sustech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
